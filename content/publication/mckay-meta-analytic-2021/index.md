@@ -1,0 +1,71 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: 'Meta-Analytic Findings in the Self-Controlled Motor Learning Literature: Underpowered,
+  Biased, and Lacking Evidential Value'
+subtitle: ''
+summary: ''
+authors:
+- Brad McKay
+- Zachary D. Yantha
+- Julia Hussien
+- Michael J. Carter
+- Diane M. Ste-Marie
+tags:
+- '"Motor learning"'
+- '"OPTIMAL Theory"'
+- '"Choice"'
+- '"Meta-analysis"'
+- '"Meta-science"'
+- '"p-curve"'
+- '"publication bias"'
+- '"Retention"'
+categories: []
+date: '2021-02-06'
+lastmod: 2021-06-08T12:47:52-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-06-08T16:47:51.730907Z'
+publication_types:
+- '4'
+abstract: The self-controlled motor learning literature consists of experiments that
+  compare a group of learners who are provided with a choice over an aspect of their
+  practice environment to a group who are yoked to those choices. A qualitative review
+  of the literature suggests an unambiguous benefit from self-controlled practice.
+  A meta-analysis was conducted on the effects of self-controlled practice on retention
+  test performance measures with a focus on assessing and potentially correcting for
+  selection bias in the literature, such as publication bias and p-hacking. First,
+  a naïve random effects model was fit to the data and a moderate benefit of self-controlled
+  practice, g=.44 (k= 52,N= 3134,95%CI[.31, .56]), was found. Second, publication
+  status was added to the model as a potential moderator, revealing a significant
+  difference between published and unpublished findings, with only the former reporting
+  a benefit of self-controlled practice. Third, to investigate and adjust for the
+  impact of selectively reporting statistically significant results, a weight-function
+  model was fit to the data with a one-tailed p-value cutpoint of .025. The weight-function
+  model revealed substantial selection bias and estimated the true average effect
+  of self-controlled practice as g=.107 (95%CI[.047, .18]). P-curve analyses were
+  conducted on the statistically significant results published in the literature and
+  the outcome suggested a lack of evidential value. Fourth, a suite of sensitivity
+  analyses were conducted to evaluate the robustness of these results, all of which
+  converged on trivially small effect estimates. Overall, our results suggest the
+  benefit of self-controlled practice on motor learning is small and not currently
+  distinguishable from zero.
+publication: ''
+url_pdf: https://psyarxiv.com/8d3nb/
+doi: 10.31234/osf.io/8d3nb
+---
